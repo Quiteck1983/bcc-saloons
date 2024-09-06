@@ -17,5 +17,6 @@ Locales['en'] = {
     FullInventory = 'Not enough space in inventory',
     FullItem = 'Can not carry anymore of that item',
     StillDestroyed = 'Still Destroyed',
-    StillPickedUp = 'Still Pickedup'
+    StillPickedUp = 'Still Pickedup',
+    InventoryFull = 'Inventory is full'
 }
