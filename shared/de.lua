@@ -16,5 +16,6 @@ Locales['de'] = {
     FullInventory = 'Nicht genug Platz im Inventar',
     FullItem = 'Du kannst nicht mehr von diesen Item tragen',
     StillDestroyed = 'Destille zerstört',
-    StillPickedUp = 'Destille aufgenommen'
+    StillPickedUp = 'Destille aufgenommen',
+    InventoryFull = 'Inventory is full'
 }
